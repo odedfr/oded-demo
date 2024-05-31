@@ -12,7 +12,7 @@ namespace studying_oded_frig
         {
 
             TestBasicObject.Demo();
-
+            Console.WriteLine("oded");
 
 
 
